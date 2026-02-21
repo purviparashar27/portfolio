@@ -150,3 +150,6 @@ section {
 .skill-box:hover i {
   transform: scale(1.2);
 }
+.project-card p {
+  min-height: 80px;
+}
